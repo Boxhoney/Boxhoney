@@ -1,11 +1,11 @@
 
-  <img style="height: 28vw" src="./public/img/logo redondo invert.png" alt="#" />
+  <img style="height: 28vw" src="./img/logo redondo invert.png" alt="#" />
 
-  #### PROJETO PILOTO ENGAPP 
-  ---
-  ##### SOBRE PROJETO:  
-  * _, projeto tem o intuito de       desenvolver uma aplicação para uso geral, desde de conceito visual._
-  * _Passando pela engenharia, e calculo de concreto metálica e detalhamento_
+
+  ## Sobre a Boxhoney:
+  ### _uma startup com a alma das Anthophila_
+---
+
 ---
   ##### DESENVOLVEDORES:
 
@@ -14,7 +14,7 @@
 
 
 <img style=" width:25vw; height:
- 25vw;" src="./public/img/marcelo3.png" />
+ 25vw;" src="./img/marcelo3.png" />
 
   ### _Marcelo Olimpio:_
   *  _Idade 46 anos_
@@ -23,6 +23,6 @@
   
 ---
 <img style=" width:25vw; height:
- 25vw;" src="./public/img/david2.png" />
+ 25vw;" src="./img/david2.png" />
 
   ### _David Venancio:_
